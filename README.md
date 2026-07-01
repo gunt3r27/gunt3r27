@@ -1,75 +1,81 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/websopen/websopen/blob/main/banner-holliday_gosth.jpg?raw=true" alt="Banner de Holliday Gosth"/>
+  <!-- Puedes reemplazar este banner con una imagen tuya, de tu lab, o un paisaje generativo de IA -->
+  <img src="https://github.com/websopen/websopen/blob/main/banner-holliday_gosth.jpg?raw=true" alt="Banner de Nico"/>
 </p>
 
 <!-- Título y presentación -->
-<h1 align="center">Hola 👋, soy [Tu Nombre]</h1>
-<h3 align="center">[Tu Título o Rol Principal, ej: Desarrollador Full-Stack | Apasionado por la Tecnología]</h3>
+<h1 align="center">Hola 👋, soy Nico</h1>
+<h3 align="center">Desarrollador & Estudiante Universitario | Entusiasta de la IA, Web Dev y DIY Electrónica</h3>
 
 <!-- Sección "Sobre mí" -->
 <p align="left">
   <br>
-  - 🔭 Actualmente estoy trabajando en **[Tu Proyecto Actual o Empresa]**.
+  - 🔭 Actualmente estoy construyendo y mejorando mi <strong>Segundo Cerebro (Obsidian + G-Brain)</strong> y explorando el ecosistema de agentes IA.
   <br>
-  - 🌱 Estoy aprendiendo sobre **[Tecnología o tema que estés estudiando]**.
+  - 🌱 Aprendiendo y aplicando conocimientos en <strong>Sistemas de Información Geográfica (SIG / QGIS)</strong> en la UNAHUR y desarrollando proyectos web/SaaS.
   <br>
-  - 👯 Busco colaborar en proyectos relacionados con **[Tipo de proyectos que te interesan, ej: Open Source, desarrollo web, etc.]**.
+  - 🛠️ Me apasionan los proyectos físicos (DIY): armando, reparando y optimizando <strong>bicicletas eléctricas 2WD (motores hub, baterías de litio, controladores)</strong>.
   <br>
-  - 🤔 Necesito ayuda con **[Algún desafío o tema en el que busques apoyo]**.
+  - 👯 Busco colaborar en proyectos open source relacionados con <strong>Inteligencia Artificial, herramientas de productividad (PKM) y movilidad eléctrica</strong>.
   <br>
-  - 💬 Pregúntame sobre **[Temas que dominas, ej: React, Python, SQL...]**.
+  - 💬 Pregúntame sobre <strong>automatización con LLMs (Claude, Gemini), gestión de conocimiento en Obsidian, y hardware/electrónica</strong>.
   <br>
-  - 📫 Cómo contactarme: **[Tu correo electrónico profesional]**.
+  - 📫 Cómo contactarme: <strong>[tu-email@ejemplo.com]</strong>.
   <br>
-  - 😄 Un dato curioso sobre mí: **[Un hobby o dato interesante sobre ti]**.
+  - 😄 Un dato curioso sobre mí: Organizo toda mi vida tecnológica usando la filosofía de "un solo grafo" (Karpathy-top).
 </p>
 
 ---
 
 <!-- Habilidades y Tecnologías -->
 <h3 align="left">🛠️ Mis Habilidades y Herramientas</h3>
+
 <p align="left">
-  <!-- Lenguajes de Programación -->
-  <a href="[URL_a_documentacion_o_proyecto]" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <strong>Desarrollo y Scripting</strong><br><br>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
   </a>
-  <a href="[URL_a_documentacion_o_proyecto]" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="[URL_a_documentacion_o_proyecto]" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  
-  <!-- Frameworks y Librerías -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js"/>
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-
-  <!-- Bases de Datos -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  
-  <!-- Herramientas y Plataformas -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
   </a>
 </p>
+
 <p align="left">
-  <em>(Edita esta sección para añadir o quitar las tecnologías que usas. Puedes encontrar más íconos en <a href="https://github.com/devicons/devicon/tree/master/icons">DevIcons</a>)</em>
+  <strong>Bases de Datos e Infraestructura</strong><br><br>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" title="SQLite"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" title="Docker"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40" title="Ubuntu Linux"/>
+  </a>
+</p>
+
+<p align="left">
+  <strong>Herramientas, IA y Ecosistema</strong><br><br>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
+  </a>
+  <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
+    <!-- Obsidian logo -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="obsidian" width="40" height="40" title="Obsidian PKM"/>
+  </a>
+  <a href="https://qgis.org/" target="_blank" rel="noreferrer">
+    <!-- QGIS logo -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="qgis" width="40" height="40" title="QGIS"/>
+  </a>
 </p>
 
 ---
@@ -77,11 +83,10 @@
 <!-- Estadísticas de GitHub -->
 <h3 align="left">📊 Mis Estadísticas de GitHub</h3>
 <p align="center">
-  <!-- Cambia [TU-USUARIO-DE-GITHUB] por tu nombre de usuario -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO-DE-GITHUB]&show_icons=true&locale=es&theme=radical" alt="Estadísticas de GitHub" />
+  <!-- NOTA: Cambia [TU-USUARIO-DE-GITHUB] por tu nombre de usuario real de GitHub -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO-DE-GITHUB]&show_icons=true&locale=es&theme=radical&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Estadísticas de GitHub" />
   <br><br>
-  <!-- Cambia [TU-USUARIO-DE-GITHUB] por tu nombre de usuario -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[TU-USUARIO-DE-GITHUB]&show_icons=true&locale=es&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[TU-USUARIO-DE-GITHUB]&show_icons=true&locale=es&layout=compact&theme=radical&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -89,16 +94,11 @@
 <!-- Redes Sociales y Contacto -->
 <h3 align="left">🔗 Conecta conmigo</h3>
 <p align="left">
+  <!-- NOTA: Reemplaza los corchetes con tus usuarios reales y borra las redes que no uses -->
   <a href="https://linkedin.com/in/[TU-USUARIO-DE-LINKEDIN]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="Tu perfil de LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="Perfil de LinkedIn" height="30" width="40" />
   </a>
   <a href="https://twitter.com/[TU-USUARIO-DE-TWITTER]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitter.svg" alt="Tu perfil de Twitter" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/[TU-ID-DE-USUARIO]/[TU-USUARIO]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/stack-overflow.svg" alt="Tu perfil de Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/[TU-USUARIO-DE-INSTAGRAM]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/instagram.svg" alt="Tu perfil de Instagram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitter.svg" alt="Perfil de Twitter" height="30" width="40" />
   </a>
 </p>
